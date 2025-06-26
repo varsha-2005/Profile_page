@@ -1,6 +1,5 @@
 # Profile Page
 ## Date:
-<hr>
 ## Objective:
 
 To design a simple Profile Page using HTML that displays a user's profile image, name, headings, and a short bio, suitable for personal or academic purposes.
